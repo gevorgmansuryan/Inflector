@@ -2,7 +2,7 @@
     "name": "gevman/inflector",
     "description": "Inflector pluralizes and singularizes English nouns. It also contains some other useful methods.",
     "type": "library",
-    "license": "BSD",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Gevorg Mansuryan",
