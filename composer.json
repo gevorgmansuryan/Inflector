@@ -1,0 +1,28 @@
+{
+    "name": "gevman/inflector",
+    "description": "Inflector pluralizes and singularizes English nouns. It also contains some other useful methods.",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Gevorg Mansuryan",
+            "email": "gevorgmansuryan@gmail.com"
+        },
+        {
+            "name": "Antonio Ramirez",
+            "email": "amigo.cobos@gmail.com"
+        },
+        {
+            "name": "Alexander Makarov",
+            "email": "sam@rmcreative.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gevman\\Inflector\\": "src/"
+        }
+    }
+}
