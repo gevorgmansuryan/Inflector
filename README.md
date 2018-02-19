@@ -1,4 +1,4 @@
-#Inflector pluralizes and singularizes English nouns. It also contains some other useful methods.
+# Inflector pluralizes and singularizes English nouns. It also contains some other useful methods.
 
 ###### string `Inflector::pluralize(string $word)`
 Converts a word to its plural form. Note that this is for English only!
